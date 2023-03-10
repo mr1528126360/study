@@ -3,10 +3,4 @@
 2. 其余为常见的深度学习分类器代码。其中TDC-ML为药物结构属性预测代码
 3. VisionTransformer_model的预训练模型下载地址为https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/vit_small_p16_224-15ec54c9.pth或https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-vitjx/jx_vit_base_patch16_224_in21k-e5005f0a.pth
 4. VisionTransformer_model的数据集下载地址为https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda/discussion
-请注意，数据集需要重构为以下结构
-train-cats-（图像）
-     -dogs-（图像）
-     -panda-（图像）
-val-cats-（图像）
-   -dogs-（图像）
-   -panda-（图像）
+请注意，数据集需要重构
