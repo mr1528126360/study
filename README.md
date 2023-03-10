@@ -5,5 +5,5 @@
 4. VisionTransformer_model的数据集下载地址为https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda/discussion
 请注意，数据集需要重构
 5.Holocron-main.zip为RepVGG模型的可运行代码包请自行解压，运行文件地址为Holocron-main\references\classification，请自行参照readme进行安装
-6.Video-Swin-Transformer-master.zip代码的实例代码在Video-Swin-Transformer-master\demo中的mmaction2_tutorial_zh-CN.ipynb，请把该文件放在主目录执行
+6.Video-Swin-Transformer-master.zip代码的实例代码在Video-Swin-Transformer-master\demo中的mmaction2_tutorial_zh-CN.ipynb，请把该文件放在主目录运行
 
