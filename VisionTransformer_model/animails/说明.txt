@@ -1,0 +1,8 @@
+数据集下载地址为：https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda/discussion
+请注意，数据集需要重构为以下结构
+train-cats-（图像）
+     -dogs-（图像）
+     -panda-（图像）
+val-cats-（图像）
+     -dogs-（图像）
+     -panda-（图像）
